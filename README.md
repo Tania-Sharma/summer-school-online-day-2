@@ -1,4 +1,4 @@
-# summer-school-online-day-2
+# summer-school-online-day 2
 
 This project is a *personal profile card* created as part of the *Summer School Online - Day 2 Assignment*.  
 The goal was to apply different types of CSS (Inline, Internal, and External) and practice various CSS selectors.
